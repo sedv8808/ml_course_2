@@ -8,4 +8,4 @@ Yay! I cloned the repo!
 
 Another line.
 
-![img]('img/xml_img.png')
+![img](img/xml_img.png)
